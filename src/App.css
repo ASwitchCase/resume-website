@@ -1,0 +1,146 @@
+.page-container{
+  margin: auto;
+  margin-top: 20px;
+  width: 80%;
+  background-color: rgb(234, 241, 239);
+  box-shadow: 10px 10px 10px rgb(28, 40, 37);
+  border-radius: 10px;
+}
+
+.about-container{
+  width: 20%;
+  height: 95vh;
+  background-color: rgb(84, 130, 114);
+  display: inline-block;
+}
+
+.items-container{
+  width: 80%;
+  height: 95vh;
+  
+  display: inline-block;
+  vertical-align: top;
+}
+
+.contact-container{
+  width: 99%;
+  height: 180px;
+  background-color: rgb(234, 241, 239);
+}
+
+.contact{
+  vertical-align: top;
+  display: inline-block;
+  width: 50%;
+  height: 200px;
+}
+
+.items{
+  width: 99%;
+  height: 560px;
+  overflow-y: scroll;
+}
+
+.pfp{
+  max-width: 100%;
+  max-height: 200px;
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  
+}
+
+.about-container p{
+  color: rgb(238, 248, 244);
+  margin-left: 10px;
+  padding: 2px 2px;
+ 
+}
+
+.about-container hr{
+  border: 3px solid rgb(202, 238, 225);
+}
+
+.about-container h1{
+  color: rgb(238, 248, 244);
+  text-align: center;
+  
+}
+
+.link-img{
+  max-width: 100%;
+  max-height: 80px;
+  display: block;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.name{
+  text-align: center;
+  font-size: 8vh;
+  color: rgb(75, 118, 103);
+}
+
+.info{
+  display: block;
+}
+.contact h3{
+  color: rgb(86, 110, 102);
+  margin-left: 5px;
+  display: inline-block;
+  font-size: 2vh;
+}
+
+.info img{
+  margin-left: 41%;
+  display: inline-block;
+  max-width: 100%;
+  height: 30px;
+  text-align: center;
+}
+
+.items-container hr{
+  border: 2px solid rgb(96, 115, 108);
+  margin: 3px 3px;
+  
+}
+.item{
+  margin:5%;
+}
+.item h1{
+  color: rgb(38, 104, 82);
+}
+
+.item h2{
+  color: rgb(68, 109, 95);
+  
+}
+.item h3{
+  color: rgb(130, 143, 139);
+  
+}
+.item p{
+  color: rgb(90, 105, 100);
+}
+
+.skill{
+  max-width: 100%;
+  height: 150px;
+  display: inline-block;
+  border: 4px solid rgb(130, 143, 139);
+  padding: 10px 10px;
+  margin: 30px 30px;
+}
+
+.skill img{
+  max-width: 100%;
+  height: 150px;
+}
+
+.skill h2{
+  color:  rgb(109, 120, 117);
+  text-align: center;
+}
