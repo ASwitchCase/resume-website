@@ -2,7 +2,7 @@
   margin: auto;
   margin-top: 20px;
   width: 80%;
-  height: 95vh;
+  height: 800px;
   background-color: rgb(234, 241, 239);
   box-shadow: 10px 10px 10px rgb(28, 40, 37);
   border-radius: 10px;
@@ -10,7 +10,7 @@
 
 .about-container{
   width: 20%;
-  height: 95vh;
+  height: 800px;
   background-color: rgb(84, 130, 114);
   display: inline-block;
 }
